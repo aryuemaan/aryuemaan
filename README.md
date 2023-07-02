@@ -1,5 +1,5 @@
 # 💫 About Me:
-Opportunity Surrounds Creative Open-minded Who Lead<br><br>👋 About Me<br>I am an Electronics and Communication Engineering student specializing in Data Computing (AI & ML) at KL University Hyderabad. Alongside my studies, I am the founder and CEO of OSCOWL, an AI-based company.
+Opportunity Surrounds Creative Open-minded Who Lead<br><br>👋 Hi!<br>I am an Electronics and Communication Engineering student specializing in Data Computing (AI & ML) at KL University Hyderabad. Alongside my studies, I am the founder and CEO of OSCOWL, an AI-based company.
 
 
 ## 🌐 Socials:
