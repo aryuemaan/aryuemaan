@@ -9,13 +9,11 @@
 
 - I’m currently working on [Numerapi.ai](https://github.com/NumeraPi-ai)
 
-- I’m currently learning **Deep Mathematics and Quantum Computing**
+- Researching on **Deep Mathematics and Quantum Computing**
 
 - I’m looking to collaborate for my start-up [OSCOWL](www.oscowl.in)
 
-- I regularly write articles on [https://aryuminstrel.blogspot.com/](https://aryuminstrel.blogspot.com/)
-
-- Ask me about **Artificial Intelligence & Data Science**
+- Check out the articles on [https://aryuminstrel.blogspot.com/](https://aryuminstrel.blogspot.com/)
 
 - How to reach me **aryu@oscowl.in**
 
