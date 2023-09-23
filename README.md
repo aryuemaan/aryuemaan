@@ -11,7 +11,7 @@
 
 - Researching on **Deep Learning and Quantum Computing**
 
-- Check out the articles on [my blog](https://aryuminstrel.blogspot.com/)
+- Check out my things on [my blog](https://aryuminstrel.blogspot.com/)
 
 - How to reach me **aryuemaan@outlook.com**
 
