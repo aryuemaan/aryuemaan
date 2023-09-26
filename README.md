@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Aryuemaan Chowdhury</h1>
 <h3 align="center">A passionate Entrepreneur & Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryuemaan&label=Profile%20views&color=0e75b6&style=flat" alt="aryuemaan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryuemaan" alt="aryuemaan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aryuminstrel" target="blank"><img src="https://img.shields.io/twitter/follow/aryuminstrel?logo=twitter&style=for-the-badge" alt="aryuminstrel" /></a> </p>
 
 - I’m currently working on [Numerapi.ai](https://github.com/NumeraPi-ai)
 
 - Researching on **Deep Learning and Quantum Computing**
+- My start-up name is [OSCOWL](www.oscowl.in)
 
-- Check out my things on [my blog](https://aryuminstrel.blogspot.com/)
+- Check out my thingy on [my blog](https://aryuminstrel.blogspot.com/)
 
 - How to reach me **aryuemaan@outlook.com**
 
