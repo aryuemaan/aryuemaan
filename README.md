@@ -4,7 +4,6 @@
 
 
 <p align="left"> <a href="https://twitter.com/aryuminstrel" target="blank"><img src="https://img.shields.io/twitter/follow/aryuminstrel?logo=twitter&style=for-the-badge" alt="aryuminstrel" /></a> </p>
-<p align="left"> <a href="[https://aryuminstrel.blogspot.com/](https://aryuminstrel.blogspot.com/)](https://aryuminstrel.blogspot.com/)"target="blank"><img src="https://img.shields.io/twitter/follow/aryuminstrel?logo=blogger&style=for-the-badge" alt="aryuminstrel" /></a> </p>
 
 - I’m currently working on [Numerapi.ai](https://github.com/NumeraPi-ai)
 
