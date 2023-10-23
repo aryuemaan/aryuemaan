@@ -12,7 +12,7 @@
 
 - Check out my thingy on [my blog](https://aryuminstrel.blogspot.com/)
 
-- How to reach me **aryuemaan@outlook.com**
+- How to reach me **aryu@oscowl.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
