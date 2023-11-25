@@ -24,11 +24,27 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
-# working on my Startup <img src="https://github.com/aryuemaan/aryuemaan/raw/main/assets/91824434/c7f1e6f0-8f2b-4be1-899b-aa8ec83f460e.png" alt="OSCOWL Sign" />
-![OSCOWL SIgn](https://github.com/aryuemaan/aryuemaan/assets/91824434/98d6c750-3005-4815-891c-159fcb4c1e49)
+
+## _Founder And CEO of_
+
+![OSCOWL](https://github.com/aryuemaan/aryuemaan/assets/91824434/1765e0a9-d63e-46bb-bd02-036c180024b4)
+
+## _FOllow me_
+
+<div align="center">
+  <a href="https://twitter.com/aryuminstrel" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/aryuemaanchowdhury/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/aryuemaan" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/aryuminstrel14" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="Instagram" />
+  </a>
+</div>
 
 
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 <br><br>
