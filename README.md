@@ -1,51 +1,34 @@
-<h1 align="center">Hi, I'm Aryuemaan Chowdhury</h1>
-<h3 align="center">A passionate Entrepreneur & Developer</h3>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+## _Technologies I use_
+  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+  
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+</div>
+# working on my Startup <img src="https://github.com/aryuemaan/aryuemaan/raw/main/assets/91824434/c7f1e6f0-8f2b-4be1-899b-aa8ec83f460e.png" alt="OSCOWL Sign" />
+![OSCOWL SIgn](https://github.com/aryuemaan/aryuemaan/assets/91824434/98d6c750-3005-4815-891c-159fcb4c1e49)
 
 
 
-<p align="left"> <a href="https://twitter.com/aryuminstrel" target="blank"><img src="https://img.shields.io/twitter/follow/aryuminstrel?logo=twitter&style=for-the-badge" alt="aryuminstrel" /></a> </p>
 
-- I’m currently working on [Numerapi.ai](https://github.com/NumeraPi-ai)
-
-- Researching on **Deep Learning and Quantum Computing**
-- My start-up name is [OSCOWL](www.oscowl.in)
-
-- Check out my thingy on [my blog](https://aryuminstrel.blogspot.com/)
-
-- How to reach me **aryu@oscowl.in**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryuminstrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryuminstrel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryuemaanchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryuemaanchowdhury" height="30" width="40" /></a>
-<a href="https://fb.com/aryuminstrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryuminstrel" height="30" width="40" /></a>
-<a href="https://instagram.com/aryuminstrel14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryuminstrel14" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oscowl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oscowl" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aryuemaancho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryuemaancho" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryuemaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryuemaan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aryuemaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aryuemaan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryuemaanchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryuemaanchowdhury" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aryuemaancho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aryuemaancho" height="30" width="40" /></a>
-</p>
-
-### Languages and Tools
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-[![Web Development](https://img.shields.io/badge/Web%20Development-1572B6?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-0096D8?style=for-the-badge)](https://en.wikipedia.org/wiki/Signal_processing)
-[![Adaptive Signal Processing](https://img.shields.io/badge/Adaptive%20Signal%20Processing-FF5733?style=for-the-badge)](https://en.wikipedia.org/wiki/Adaptive_signal_processing)
-[![Mathematics](https://img.shields.io/badge/Mathematics-1A1A1D?style=for-the-badge)](https://en.wikipedia.org/wiki/Mathematics)
-[![Physics](https://img.shields.io/badge/Physics-430098?style=for-the-badge)](https://en.wikipedia.org/wiki/Physics)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryuemaan&show_icons=true&locale=en&layout=compact" alt="aryuemaan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryuemaan&show_icons=true&locale=en" alt="aryuemaan" /></p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<br><br>
