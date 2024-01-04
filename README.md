@@ -19,9 +19,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-## _Founder And CEO of_
-
-![OSCOWL](https://github.com/aryuemaan/aryuemaan/assets/91824434/1765e0a9-d63e-46bb-bd02-036c180024b4)
+## _Founder And CEO of OSCOWL & Co_
 
 ## _FOllow me_
 
