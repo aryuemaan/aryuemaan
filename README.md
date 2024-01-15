@@ -19,7 +19,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-## _Founder And CEO of OSCOWL & Co_
+ _Founder And CEO of OSCOWL & Co AKOSCOWL DOT INVENTIONS_
 
 ## _FOllow me_
 
