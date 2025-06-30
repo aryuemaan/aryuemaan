@@ -1,7 +1,4 @@
-<!-- EPIC CINEMATIC HERO BANNER -->
-<div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=400&color=0:FF0080,25:00D4FF,50:B537F2,75:FF6B35,100:00F5A0&text=ARYUEMAAN&desc=AI%20Visionary%20%7C%20Code%20Alchemist%20%7C%20Future%20Builder&animation=blinking&fontColor=ffffff&fontSize=80&descSize=35&descAlignY=75&textBg=false&fontAlign=50&fontAlignY=35"/>
-</div>
+
 
 <!-- HOLOGRAPHIC MATRIX TYPING -->
 <div align="center">
