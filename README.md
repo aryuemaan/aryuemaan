@@ -3,7 +3,7 @@
 <!-- HOLOGRAPHIC MATRIX TYPING -->
 <div align="center">
    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=CRAFTING+DIGITAL+UNIVERSES;ENGINEERING+AI+CONSCIOUSNESS;TRANSFORMING+VISIONS+INTO+REALITY;WHERE+CODE+MEETS+IMAGINATION;BUILDING+TOMORROW'S+TECHNOLOGY" alt="Holographic Typing" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=ENGINEERING+AI+CONSCIOUSNESS;TRANSFORMING+VISIONS+INTO+REALITY" alt="Holographic Typing" />
    </a>
 </div>
 
@@ -123,14 +123,6 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" height="50" alt="Developer Community" />
 </a>
 
-### COLLABORATION OPPORTUNITIES
-```
-Open to innovative projects and partnerships
-Available for consulting and technical advisory
-Seeking exciting startup ventures and investments
-Mentoring aspiring developers and AI enthusiasts
-```
-
 </div>
 
 <!-- CYBERPUNK VISITOR COUNTER -->
@@ -138,23 +130,4 @@ Mentoring aspiring developers and AI enthusiasts
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=00f5ff&labelColor=000000" height="30"/>
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-</div>
-
----
-
-<!-- DYNAMIC CONTRIBUTION SNAKE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-
-**"In the symphony of code and consciousness, I compose the future."**
-
-**Every line of code is a brushstroke on the canvas of tomorrow**
-
 </div>
