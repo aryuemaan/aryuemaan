@@ -76,7 +76,6 @@
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&row=3&column=5&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
----
 
 ## CURRENT UNIVERSE CONSTRUCTION
 
@@ -95,7 +94,7 @@
 ```
 
 </div>
----
+
 
 ## CONNECT TO THE MATRIX
 
